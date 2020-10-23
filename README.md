@@ -1,2 +1,6 @@
-# rl_study
-rl study
+# reinforcement learning study
+## basic RL
+
+## TF2
+
+## Pytorch
